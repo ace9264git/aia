@@ -97,6 +97,8 @@ all in ai/
 │   └── LEARNING_SCHEDULE.md
 ├── notes/
 │   ├── README.md
+│   ├── weekly/
+│   │   └── WEEK1.md
 │   ├── templates/
 │   │   └── DAILY_CHECKIN_TEMPLATE.md
 │   └── daily/
@@ -113,6 +115,7 @@ all in ai/
 从今天开始，这个仓库会持续记录每日学习打卡。
 
 - 每日学习记录入口：[notes/README.md](notes/README.md)
+- 本周总表：[notes/weekly/WEEK1.md](notes/weekly/WEEK1.md)
 - 今日打卡：[notes/daily/2026-03-16.md](notes/daily/2026-03-16.md)
 - 每日模板：[notes/templates/DAILY_CHECKIN_TEMPLATE.md](notes/templates/DAILY_CHECKIN_TEMPLATE.md)
 
